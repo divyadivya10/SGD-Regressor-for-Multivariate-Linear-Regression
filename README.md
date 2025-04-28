@@ -33,8 +33,8 @@ To write a program to predict the price of the house and number of occupants in 
 ```
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: 212224230209
-RegisterNumber:  Priyadharshini G
+Developed by: 212222040040
+RegisterNumber: Divya R
 */
 ```
 ```
@@ -69,6 +69,8 @@ Y_test = scaler_Y.inverse_transform(Y_test)
 mse= mean_squared_error(Y_test,Y_pred)
 print("Mean Squared Error:",mse)
 print("\nPredictions:\n",Y_pred[:5])
+print("Name: Divya R")
+print("Register No: 212222040040")
 ```
 
 ## Output:
@@ -76,7 +78,8 @@ print("\nPredictions:\n",Y_pred[:5])
 ## df.head()
 ![image](https://github.com/user-attachments/assets/6944112c-a261-460f-ae69-7c4c63fc7665)
 ## Prediction
-![image](https://github.com/user-attachments/assets/d5c7f5db-8189-46c6-8952-89c919ec586e)
+![image](https://github.com/user-attachments/assets/a2e1fe7d-e9c9-4ff0-bb10-635fa515aae6)
+
 
 
 
